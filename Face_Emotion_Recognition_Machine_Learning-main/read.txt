@@ -1,0 +1,14 @@
+tensorflow ''' for the purpose of traning the model '''
+keras 
+pandas''' to devel with the dataset to frame a labels using images'''
+numpy
+jupyter ''' for traning a model to understand step by step'''
+notebook
+tqdm
+opencv-contrib-python'''realtime input '''
+scikit-learn'''
+
+pip install tensorflow keras pandas numpy jupyter notebook tqdm opencv-contrib-python scikit-learn
+
+
+algorithm cnn we have used 
